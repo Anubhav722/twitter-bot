@@ -1,0 +1,6 @@
+export CONSUMER_KEY=
+export CONSUMER_SECRET=
+export ACCESS_TOKEN=
+export ACCESS_TOKEN_SECRET=
+export AIRCTO_HOST=https://aircto.com/
+export GOOGLE_SHORTENER_API_KEY=
